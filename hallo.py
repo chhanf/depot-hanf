@@ -1,1 +1,1 @@
-print('wurst')
+print('hier kommt keine wurst!')
